@@ -1,0 +1,1 @@
+# Crear un proyecto de backend con los endpoints necesarios para poder agregar una tarea, listar todas las tareas existentes, borrar una tarea, editar una tarea y obtener una tarea por el nombre o identificador único. Modelar la base de datos necesaria con MongoDB.
